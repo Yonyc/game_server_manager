@@ -1,2 +1,2 @@
-# game_server_manager
-A simple nodejs game server manager interface
+# EasyGameServer
+A simple nodejs game server manager interface based on Linuxgsm
